@@ -14,6 +14,5 @@ namespace APIB2.Data
 
         [Range(0, double.MaxValue)]
         public double DonGia { get; set; }
-        public double? TangGia { get; set; }
     }
 }
